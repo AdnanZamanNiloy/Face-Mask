@@ -65,9 +65,7 @@ Press 'q' to exit the video window.
 If you want to modify, extend, or integrate with facial recognition, emotion detection, or attendance systems, feel free to open an issue or contact the developer.
 
 ## Sample Output
-
-Include a screenshot (e.g., `sample_frame.jpg`) showing the face mesh detection result.
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fpysource.com%2F2021%2F05%2F14%2Ffacial-landmarks-detection-with-opencv-mediapipe-and-python%2F&psig=AOvVaw3XbO6naj3te7G2nbgUMrG4&ust=1751694626443000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCs6pTBoo4DFQAAAAAdAAAAABAM
 ## Future Enhancements
 
 - Integrate with attendance system
