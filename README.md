@@ -12,9 +12,6 @@ This project implements real-time face mesh detection using OpenCV and MediaPipe
 - Displays FPS counter
 - Easy to extend for face recognition or emotion detection
 
-## Demo
-
-A short demo video has been included in the repository to show the working system.
 
 ## Installation
 
@@ -29,7 +26,7 @@ pip install opencv-python mediapipe
 To run face mesh detection using your webcam:
 
 ```bash
-python face_mesh_detector.py
+python facemesh_detector.py
 ```
 
 To use a video file instead:
