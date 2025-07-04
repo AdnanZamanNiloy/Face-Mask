@@ -60,6 +60,8 @@ Press 'q' to exit the video window.
 
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/a91f16de-bc30-4732-87ef-055ad6a8cdac)
+![image](https://github.com/user-attachments/assets/729d5cbc-2139-44e2-bbd9-9a158b25a630)
+
 
 ## Future Enhancements
 
