@@ -5,8 +5,6 @@ This project implements real-time face mesh detection using OpenCV and MediaPipe
 
 ## Key Features
 
-- Real-time face mesh detection with 97% accuracy
-- Live-ness detection via blink detection — ensures the student is physically present in front of the camera
 - Supports multiple faces (default: 2)
 - Prints facial landmark coordinates
 - Displays FPS counter
