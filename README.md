@@ -58,14 +58,12 @@ Press 'q' to exit the video window.
 |------------------------|-------------------------------------------|
 | `face_mesh_detector.py`| Main Python file for real-time detection  |
 | `README.md`            | Project description and setup instructions|
-| `demo_video.mp4`       | Sample video demonstrating the output     |
+| `demo_image.png`       | Sample video demonstrating the output     |
 
-## Support
-
-If you want to modify, extend, or integrate with facial recognition, emotion detection, or attendance systems, feel free to open an issue or contact the developer.
 
 ## Sample Output
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fpysource.com%2F2021%2F05%2F14%2Ffacial-landmarks-detection-with-opencv-mediapipe-and-python%2F&psig=AOvVaw3XbO6naj3te7G2nbgUMrG4&ust=1751694626443000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCs6pTBoo4DFQAAAAAdAAAAABAM
+![image](https://github.com/user-attachments/assets/a91f16de-bc30-4732-87ef-055ad6a8cdac)
+
 ## Future Enhancements
 
 - Integrate with attendance system
