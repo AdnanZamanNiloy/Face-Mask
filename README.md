@@ -26,7 +26,7 @@ pip install opencv-python mediapipe
 To run face mesh detection using your webcam:
 
 ```bash
-python facemesh_detector.py
+python Facemesh.py
 ```
 
 To use a video file instead:
