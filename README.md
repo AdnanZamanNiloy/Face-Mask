@@ -65,6 +65,3 @@ Press 'q' to exit the video window.
 - Save detected faces with timestamps
 - Improve live-ness detection with more eye and head movement checks
 
-## License
-
-This project is released for educational and academic purposes.
